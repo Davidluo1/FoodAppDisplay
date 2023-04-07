@@ -9,7 +9,7 @@ const Data = [
   },
   {
     id: 1,
-    name: "Cake",
+    name: "Chocolate Cake",
     fontPage:
       "https://www.cookingclassy.com/wp-content/uploads/2019/10/chocolate-cake-3-600x900.jpg",
     image:
@@ -17,7 +17,7 @@ const Data = [
   },
   {
     id: 2,
-    name: "Tea",
+    name: "Honey Tea",
     fontPage:
       "https://specials-images.forbesimg.com/imageserve/5f6c061ca71799093f55fd02/960x0.jpg?cropX1=0&cropX2=5029&cropY1=0&cropY2=3354",
     image:
@@ -25,7 +25,7 @@ const Data = [
   },
   {
     id: 3,
-    name: "Meat",
+    name: "A5 Steak",
     fontPage:
       "https://i8.amplience.net/i/traeger/20190309_Smoked-Peppered-Beef-Tenderloin_RE_HE_M?w=620&sm=aspect&aspect=5:3&scaleFit=poi&$poi2$&fmt=webp",
     image:
