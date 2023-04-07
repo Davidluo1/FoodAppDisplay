@@ -46,6 +46,7 @@ body {
 
 .search-box h2 {
   margin-bottom: 10px;
+  text-shadow: 0 0 3px whitesmoke, 0 0 5px whitesmoke;
   font-size: 40px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: rgb(54, 156, 196);
@@ -53,8 +54,8 @@ body {
 
 .search-box button {
   border: none;
-  margin-left: 10px;
-  background: rgb(168, 164, 164);
+  margin-left: 5px;
+  background: rgb(214, 207, 207);
   cursor: pointer;
   font-size: 15px;
   border-radius: 20%;
@@ -69,11 +70,15 @@ body {
   border-radius: 5px;
   border: none;
   outline: none;
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 img {
   max-width: 100%;
+}
+
+.info-container h1 {
+  text-shadow: 0 0 3px whitesmoke, 0 0 5px whitesmoke;
 }
 
 .favorite-container {
@@ -127,7 +132,7 @@ h1 {
 
 .showcase-box {
   margin: 10px;
-  background: rgb(236, 233, 233);
+  background: rgb(231, 229, 229);
   border-radius: 5px;
   box-shadow: 0 0 6px 2px rgb(161, 158, 158);
   border: none;
@@ -138,8 +143,9 @@ h1 {
 
 .showcase-box h3 {
   font-family: "Poppins", sans-serif;
+  text-shadow: 0 0 3px rgb(241, 206, 237), 0 0 5px rgb(248, 245, 248);
   padding: 10px 10px 10px 5px;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 .footer {
