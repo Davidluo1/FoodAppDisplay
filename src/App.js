@@ -8,6 +8,7 @@ import Personalize from "./Personalize";
 export default function App() {
   const foods = Data.map((item) => <FoodOption id={item.id} {...item} />);
   const showcase = Data.map((item) => <Showcase id={item.id} {...item} />);
+
   return (
     <div className="App">
       <Search />
